@@ -1,0 +1,430 @@
+{
+	"Level1": [
+		{
+			"name": "onlineSafety",
+			"questions": [
+				{
+					"name": "question1",
+					"q": "If someone asks me for my name, I should always give it to them",
+					"a": false,
+					"p": 1,
+					"correct": "Great job! Don't tell others your name online!",
+					"wrong": "Never share your real name online with strangers!"
+				},
+				{
+					"name": "question2",
+					"q": "It's a good idea to ask an adult for help when I'm not sure how to do something on the computer",
+					"a": true,
+					"p": 1,
+					"correct": "Right! If you're not sure, always ask for help!",
+					"wrong": "Always ask for help if you're not sure what to do"
+				},
+				{
+					"name": "question3",
+					"q": "I shouldn't click on links I don't recognize",
+					"a": true,
+					"p": 1,
+					"correct": "Nice job! Whenever you're not sure if you should click on something, don't!",
+					"wrong": "Don't click on links if you're not sure where they're from!"
+				},
+				{
+					"name": "question4",
+					"q": "I should share my password with my friends",
+					"a": false,
+					"p": 1,
+					"correct": "Right! Don't share your passwords, even if you trust your friends!",
+					"wrong": "Always keep your passwords secret, even if you trust your friends"
+				},
+				{
+					"name": "question5",
+					"q": "If someone asks me to give them my phone number, I should do it",
+					"a": false,
+					"p": 1,
+					"correct": "Good job! Always keep your personal information safe!",
+					"wrong": "Don't ever give your phone number, or other personal information, with someone else!"
+				},
+				{
+					"name": "question6",
+					"q": "I should ask my parents before posting anything online",
+					"a": true,
+					"p": 1,
+					"correct": "Good job! Always ask your parents before posting online!",
+					"wrong": "Wrong! Always ask your parents before posting online!"
+				},
+				{
+					"name": "question7",
+					"q": "I should say things that will hurt other's feelings if I want to",
+					"a": false,
+					"p": 1,
+					"correct": "Right! Don't hurt other's feelings, even if you're mad at them!",
+					"wrong": "Never try to hurt someone else's feelings!"
+				},
+				{
+					"name": "question8",
+					"q": "If anyone says something online that makes me upset, I should tell my parents",
+					"a": true,
+					"p": 1,
+					"correct": "Nice job! Always ask your parents for help when someone says something mean!",
+					"wrong": "It's always OK to ask your parents for help when someone says something mean!"
+				},
+				{
+					"name": "question9",
+					"q": "I should meet someone at a library or coffee shop if I talk to them online a lot",
+					"a": false,
+					"p": 1,
+					"correct": "Correct! Don't meet strangers, even if you feel like you know them!",
+					"wrong": "Wrong! Be safe and don't meet strangers online!"
+				},
+				{
+					"name": "question10",
+					"q": "I should always ask permission before using a computer, phone, or tablet",
+					"a": true,
+					"p": 1,
+					"correct": "Right! Asking permission is always a good idea!",
+					"wrong": "Wrong! Always ask your parents for permission!"
+				},
+				{
+					"name": "question1",
+					"q": "All pandas in the world are on loan from China",
+					"a": true,
+					"p": 1,
+					"correct": "Correct! All pandas are on loan from China!",
+					"wrong": "Wrong! All pandas are on loan from China"
+				},
+				{
+					"name": "question2",
+					"q": "There are only about 200 pandas left in the wild",
+					"a": false,
+					"p": 1,
+					"correct": "Correct! There are actually about 2,000 pandas in the wild!",
+					"wrong": "Wrong! There are actually about 2,000 pandas in the wild!"
+				},
+				{
+					"name": "question3",
+					"q": "99% of panda's diets are bamboo",
+					"a": true,
+					"p": 1,
+					"correct": "True! About 99% of panda's diets are bamboo!",
+					"wrong": "Wrong! It's true that about 99% of panda's diets are bamboos!"
+				},
+				{
+					"name": "question4",
+					"q": "Baby pandas eat the feces of their mothers",
+					"a": true,
+					"p": 1,
+					"correct": "It's true! Pandas really do eat the feces of their mothers",
+					"wrong": "Wrong! It's true that pandas really do eat the feces of their mother!"
+				},
+				{
+					"name": "question5",
+					"q": "Pandas can poop up to 40 times a day",
+					"a": true,
+					"p": 1,
+					"correct": "It's true! Pandas can poop up to 40 times a day!",
+					"wrong": "It's true! Pandas can poop up to 40 times a day"
+				},
+				{
+					"name": "question6",
+					"q": "Pandas lives up to 50 years in the wild",
+					"a": false,
+					"p": 1,
+					"correct": "Correct! Pandas only live about 20 years in the wild!",
+					"wrong": "False! Pandas only live about 20 years in the wild!"
+				},
+				{
+					"name": "question7",
+					"q": "Pandas spend approximately 55% of its life eating bamboo",
+					"a": true,
+					"p": 1,
+					"correct": "Correct! Pandas spend 55% of their lives eating bamboo!",
+					"wrong": "Wrong! Pandas do spend about 55% of their lives eating bamboo!"
+				},
+				{
+					"name": "question8",
+					"q": "A panda fur can be worth up to $100,000 on the black market",
+					"a": true,
+					"p": 1,
+					"correct": "True! Panda furs are sure expensive!",
+					"wrong": "Wrong! Panda furs can be sold for up to $100,000 on the black market!"
+				},
+				{
+					"name": "question9",
+					"q": "A group of pandas is called a 'confusion'",
+					"a": false,
+					"p": 1,
+					"correct": "Correct! A group of pandas is actually called an 'embarassment'",
+					"wrong": "Wrong! A group of pandas is actually called an 'embarassment'"
+				},
+				{
+					"name": "question10",
+					"q": "Adult pandas have to eat up to 20 pounds of bamboo a day to stay healthy",
+					"a": false,
+					"p": 1,
+					"correct": "Correct! An adult panda actually has to eat up to 50 pounds of bamboo a day to stay healthy!",
+					"wrong": "Wrong! An adult panda actually has to eat up to 50 pounds of bamboo a day to stay healthy!"
+				}
+			]
+		}
+	],
+	"Level 2": [
+		{
+			"name": "conditionals",
+			"questions": [
+				{
+					"name": "question1",
+					"q": "What are the two parts of an if statement?",
+					"ops": [
+						{
+							"text": "The condition and the code",
+							"a": true
+						},
+						{
+							"text": "The code and the function",
+							"a": false
+						},
+						{
+							"text": "The function and the compiler",
+							"a": false
+						},
+						{
+							"text": "The compiler and the interpreter",
+							"a": false
+						}
+					],
+					"p": 1,
+					"correct": "Correct! In an if statement, the code only runs if the condition is true!",
+					"wrong": "Wrong! In an if statement, there is a condition, and the code that runs only if the condition is true!"
+				},
+				{
+					"name": "question2",
+					"q": " What is a situation where an if statement would help?",
+					"ops": [
+						{
+							"text": "For chosing a color from a bunch of RGB values",
+							"a": false
+						},
+						{
+							"text": "When picking a new profile statement on Facebook",
+							"a": false
+						},
+						{
+							"text": "If a website wants to know if you are 12 years old or not",
+							"a": true
+						},
+						{
+							"text": "For when you need to run the same lines of code over again",
+							"a": false
+						}
+					],
+					"p": 1,
+					"correct": "Correct! A website could only let you enter if you are 12 years old by looking at what year you were born in!",
+					"wrong": "Incorrect! An if statement could determine if you are 12 or not, and let you in only if you are!"
+				},
+				{
+					"name": "question3",
+					"q": " When should you use an else statement after an if statement?",
+					"ops": [
+						{
+							"text": "If you want to always make something happen",
+							"a": false
+						},
+						{
+							"text": "As a default if no other condition is true",
+							"a": true
+						},
+						{
+							"text": "To make the same lines of code run over and over",
+							"a": false
+						},
+						{
+							"text": "To record when someone clicks something on the screen",
+							"a": false
+						}
+					],
+					"p": 1,
+					"correct": "Good job! It's for when no other condition is true!",
+					"wrong": "Incorrect! It's for when no other condition is true!"
+				},
+				{
+					"name": "question1",
+					"q": " When hippos are upset, what color does their sweat turn?",
+					"ops": [
+						{
+							"text": "blue",
+							"a": false
+						},
+						{
+							"text": "orange",
+							"a": false
+						},
+						{
+							"text": "red",
+							"a": true
+						},
+						{
+							"text": "purple",
+							"a": false
+						}
+					],
+					"p": 1,
+					"correct": "Great job! Hippos sweat turns red when they stressed!",
+					"wrong": "Incorrect! Hippos sweat turns red when they are stressed!"
+				},
+				{
+					"name": "question2",
+					"q": " Where is a shrimp's heart located?",
+					"ops": [
+						{
+							"text": "It's feet",
+							"a": false
+						},
+						{
+							"text": "It's stomach",
+							"a": false
+						},
+						{
+							"text": "It's chest",
+							"a": false
+						},
+						{
+							"text": "It's head",
+							"a": true
+						}
+					],
+					"p": 1,
+					"correct": "Great job!",
+					"wrong": "Incorrect, a shrimp's heart is in it's head!"
+				},
+				{
+					"name": "question3",
+					"q": " How many ways are there to make change for $1?",
+					"ops": [
+						{
+							"text": "136",
+							"a": false
+						},
+						{
+							"text": "293",
+							"a": true
+						},
+						{
+							"text": "217",
+							"a": false
+						},
+						{
+							"text": "98",
+							"a": false
+						}
+					],
+					"p": 1,
+					"correct": "Great job!",
+					"wrong": "Incorrect, the answer is 293!"
+				},
+				{
+					"name": "question4",
+					"q": " What family do almonds belong to?",
+					"ops": [
+						{
+							"text": "zucchini",
+							"a": false
+						},
+						{
+							"text": "apple",
+							"a": false
+						},
+						{
+							"text": "peach",
+							"a": true
+						},
+						{
+							"text": "orange",
+							"a": false
+						}
+					],
+					"p": 1,
+					"correct": "Correct - great job!",
+					"wrong": "Incorrect, almonds are part of the peach family!"
+				},
+				{
+					"name": "question4",
+					"q": " How many muscles do cats have in each ear?",
+					"ops": [
+						{
+							"text": "32",
+							"a": true
+						},
+						{
+							"text": "12",
+							"a": false
+						},
+						{
+							"text": "29",
+							"a": false
+						},
+						{
+							"text": "8",
+							"a": false
+						}
+					],
+					"p": 1,
+					"correct": "Nice job!",
+					"wrong": "Incorrect, cats have 32 muscles in each ear!"
+				},
+				{
+					"name": "question1",
+					"q": " When would a programmer use a for loop?",
+					"ops": [
+						{
+							"text": "to repeat the same lines of code",
+							"a": false
+						},
+						{
+							"text": "if they didn't know how many times something should run",
+							"a": false
+						},
+						{
+							"text": "to make their code easier to read",
+							"a": false
+						},
+						{
+							"text": "all of the above",
+							"a": true
+						}
+					],
+					"p": 1,
+					"correct": "Great job! All of the above are correct!",
+					"wrong": "Incorrect! All of the above are correct!"
+				},
+				{
+					"name": "question4",
+					"q": " When would be a good situation to use a for loop?",
+					"ops": [
+						{
+							"text": "You need to check a user's age",
+							"a": false
+						},
+						{
+							"text": "You want to load an image of a dog",
+							"a": false
+						},
+						{
+							"text": "You need to add a long list of numbers up",
+							"a": true
+						},
+						{
+							"text": "You're not sure what else to use",
+							"a": false
+						}
+					],
+					"p": 1,
+					"correct": "Great job!",
+					"wrong": "Incorrect! It would be better to use a for loop when you need to add a long list of numbers up!"
+				}
+			],
+			"p": 1,
+			"correct": "Great job!",
+			"wrong": "Incorrect, it would print 1 2 3"
+		}
+	]
+}
+
